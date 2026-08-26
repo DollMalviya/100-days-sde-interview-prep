@@ -2,7 +2,7 @@
 
 Tracking my 100-day challenge of FAANG-pattern DSA, advanced C++, Low-Level Design, and High-Level Design.
 
-📌 Follow the daily posts on [LinkedIn](your-linkedin-profile-link-here)
+📌 Follow the daily posts on [[LinkedIn](your-linkedin-profile-link-here)](https://www.linkedin.com/in/doll-malviya-99892411a/)
 
 ---
 
