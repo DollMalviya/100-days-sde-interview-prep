@@ -16,40 +16,6 @@ Tracking my 100-day challenge of FAANG-pattern DSA, advanced C++, Low-Level Desi
 | 4 | LLD | Parking Lot | [Post](#) | [Code](./lld/04-parking-lot) |
 | 5 | DSA | Binary Search on Answer | [Post](#) | [Code](./dsa/05-binary-search-answer) |
 
-*(Add a new row every day — copy the row above and update it.)*
-
----
-
-## Folder Structure
-
-```
-/dsa
-  /01-two-pointers
-      solution.cpp
-      notes.md
-  /03-sliding-window
-      solution.cpp
-      notes.md
-
-/cpp-advanced
-  /02-move-semantics
-      example.cpp
-      notes.md
-
-/lld
-  /04-parking-lot
-      ParkingLot.cpp   (or .java)
-      class-diagram.png
-      notes.md
-
-/hld
-  /XX-design-twitter
-      notes.md
-      architecture-diagram.png
-```
-
----
-
 ## Tracks
 
 - **DSA** — Pattern-wise problems asked in FAANG interviews
