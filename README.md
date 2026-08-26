@@ -10,7 +10,7 @@ Tracking my 100-day challenge of FAANG-pattern DSA, advanced C++, Low-Level Desi
 
 | Day | Track | Topic | LinkedIn Post | Code |
 |-----|-------|-------|----------------|------|
-| 1 | DSA | Prefix Sum | [Post](#) | [Code](./dsa/01-two-pointers) |
+| 1 | DSA | Prefix Sum | [Post](#) | dsa/01-prefix-sum/solution.cpp|
 | 2 | C++ | Move Semantics | [Post](#) | [Code](./cpp-advanced/02-move-semantics) |
 | 3 | DSA | Sliding Window | [Post](#) | [Code](./dsa/03-sliding-window) |
 | 4 | LLD | Parking Lot | [Post](#) | [Code](./lld/04-parking-lot) |
